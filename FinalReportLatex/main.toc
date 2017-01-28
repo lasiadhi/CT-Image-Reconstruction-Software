@@ -1,0 +1,45 @@
+\contentsline {chapter}{Abstract}{i}{dummy.1}
+\contentsline {chapter}{Acknowledgement}{ii}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{Contents}{iii}{dummy.3}
+\contentsline {chapter}{List of Figures}{v}{dummy.5}
+\contentsline {chapter}{List of Tables}{vi}{dummy.7}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.9}
+\contentsline {section}{\numberline {1.1}Computerized Axial Tomography}{1}{section.10}
+\contentsline {section}{\numberline {1.2}Objective}{1}{section.12}
+\contentsline {chapter}{\numberline {2}Theory}{3}{chapter.14}
+\contentsline {section}{\numberline {2.1}Mathematical Description}{3}{section.15}
+\contentsline {paragraph}{Theorem 2.1. Central slice theorem.}{4}{section*.20}
+\contentsline {section}{\numberline {2.2}Discrete Mathematical Model}{6}{section.29}
+\contentsline {subsection}{\numberline {2.2.1}$\mathscr {R}_Df$ is the discrete Radon transform.}{6}{subsection.30}
+\contentsline {subsection}{\numberline {2.2.2}$\mathscr {F}^{-1}_{D} $ is the discrete inverse Fourier transform.}{8}{subsection.33}
+\contentsline {subsection}{\numberline {2.2.3}($\mathaccentV {bar}016{*}$) denotes the discrete convolution.}{8}{subsection.36}
+\contentsline {subsection}{\numberline {2.2.4}$\mathscr {I}$ is the $W$-interpolation function.}{8}{subsection.37}
+\contentsline {subsection}{\numberline {2.2.5}$\mathscr {B}_D$ is the discrete back projection.}{9}{subsection.40}
+\contentsline {section}{\numberline {2.3}Discrete Image Reconstruction Algorithm}{9}{section.41}
+\contentsline {chapter}{\numberline {3}Design and Implementation}{10}{chapter.43}
+\contentsline {section}{\numberline {3.1}Architectural Design}{10}{section.44}
+\contentsline {section}{\numberline {3.2}Implementation Approach}{10}{section.46}
+\contentsline {section}{\numberline {3.3}A Top Level Design of the Software}{11}{section.47}
+\contentsline {subsection}{\numberline {3.3.1}Image Class}{11}{subsection.48}
+\contentsline {subsection}{\numberline {3.3.2}ImageReconstruct Class}{12}{subsection.49}
+\contentsline {subsection}{\numberline {3.3.3}Interpolator Class}{13}{subsection.50}
+\contentsline {paragraph}{LinearInterpolator Class.}{13}{section*.51}
+\contentsline {paragraph}{NearestNeighborInterpolator Class.}{14}{section*.52}
+\contentsline {subsection}{\numberline {3.3.4}Filter Class}{14}{subsection.53}
+\contentsline {paragraph}{SheppLoganFilter Class.}{14}{section*.54}
+\contentsline {paragraph}{RamLakFilter Class.}{15}{section*.55}
+\contentsline {paragraph}{LowPassCosineFilter Class.}{15}{section*.56}
+\contentsline {chapter}{\numberline {4}Results}{16}{chapter.57}
+\contentsline {section}{\numberline {4.1}System Inputs}{16}{section.58}
+\contentsline {section}{\numberline {4.2}System Outputs}{17}{section.60}
+\contentsline {subsection}{\numberline {4.2.1}Test case 1:}{17}{subsection.61}
+\contentsline {paragraph}{Radon Transformation}{17}{section*.62}
+\contentsline {paragraph}{Convolution}{18}{section*.64}
+\contentsline {paragraph}{Back projection Transformation}{18}{section*.66}
+\contentsline {subsection}{\numberline {4.2.2}Test case 2:}{19}{subsection.69}
+\contentsline {section}{\numberline {4.3}Performance Analysis }{20}{section.71}
+\vspace {2em}
+\contentsline {chapter}{\numberline {A}Calculating Coordinates for Line Integrals of Radon Transform}{22}{appendix.73}
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{24}{dummy.80}

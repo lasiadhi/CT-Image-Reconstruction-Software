@@ -1,0 +1,6 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Time table for main.exe for image of 256 x 256 and the beam spacing is chosen as d=0.007. Shepp-logan filter and linear interpolator are used in this run. Notice that in the subroutine of Linear Interpolator only the precentage is measured by Timer. The time inside this subroutine is calculated from the precentage of total time.\relax }}{20}{table.caption.72}
+\addvspace {10\p@ }

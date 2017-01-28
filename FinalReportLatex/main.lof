@@ -1,0 +1,18 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Hounsfield's prototype CT scanner}}{1}{figure.caption.11}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Shepp-Logan Phantom}}{2}{figure.caption.13}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces CT scanner model}}{3}{figure.caption.16}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Radon transform}}{7}{figure.caption.31}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Maximum and minimum coordinates of x or y.}}{7}{figure.caption.32}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Class diagram.}}{10}{figure.caption.45}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Input Phantom Image.}}{16}{figure.caption.59}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Radon transform of test case 1.}}{18}{figure.caption.63}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Convolution of test case 1.}}{18}{figure.caption.65}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Test case 1 image.}}{18}{figure.caption.67}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Reconstruction error image.}}{19}{figure.caption.68}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Test case 2 image.}}{19}{figure.caption.70}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Minimum and maximum coordinates in each region.}}{22}{figure.caption.74}

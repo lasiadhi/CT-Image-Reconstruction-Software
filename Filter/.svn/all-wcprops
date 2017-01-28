@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cs294-73/!svn/ver/1476/projects/imageReconstruction/Filter
+END
+Filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cs294-73/!svn/ver/1475/projects/imageReconstruction/Filter/Filter.cpp
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cs294-73/!svn/ver/1475/projects/imageReconstruction/Filter/GNUmakefile
+END
+Filter.H
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cs294-73/!svn/ver/1475/projects/imageReconstruction/Filter/Filter.H
+END
+filters.H
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cs294-73/!svn/ver/1475/projects/imageReconstruction/Filter/filters.H
+END

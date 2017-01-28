@@ -1,0 +1,16 @@
+#include "Interpolator.H"
+int main()
+{
+  double radonptr[100];
+  vector<double> tArray;
+  tArray.resize(10);
+  double t = 0.2;
+  int theta = 0;
+  int thetaSize=1;
+  Interpolator* interp0 = Interpolator::interpFactory(0);
+  double temp = interp0-> Interpolation(radonptr, tArray, t, theta, thetaSize);
+  delete interp0;
+  //delete filter1;
+  //delete filter2;
+  return 0;
+}

@@ -1,0 +1,14 @@
+#include "Filter.H"
+int main()
+{
+  Filter* filter0 = Filter::filterFactory(0, 10, 0.01);
+  filter0->inverseFFT();
+  Filter* filter1 = Filter::filterFactory(1, 10, 0.01);
+  filter1->inverseFFT();
+  Filter* filter2 = Filter::filterFactory(3, 10, 0.01);
+  filter2->inverseFFT();
+  delete filter0;
+  delete filter1;
+  delete filter2;
+  return 0;
+}

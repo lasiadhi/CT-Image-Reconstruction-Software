@@ -1,0 +1,34 @@
+@book{TimothyBook,
+  title={The Mathematics of Medical Imaging: A Beginner’s Guide},
+  author={Feeman, T.G.},
+  isbn={9780387927114},
+  lccn={2009939881},
+  series={Springer Undergraduate Texts in Mathematics and Technology},
+  url={http://books.google.com/books?id=8uQwQv2wSBMC},
+  year={2009},
+  publisher={Springer}
+}
+
+@book{Radon,
+  title={The Radon Transform},
+  author={Høilund, C.},
+  series={Aalborg University, VGIS, 07gr721},
+  year={2007},
+}
+
+@ONLINE{Doe:2009:Online,
+title = {Prototype model of the CT scanner},
+year = {1998-2009},
+url = {http://www.impactscan.org/CThistory.htm}
+}
+
+@book{charles,
+  title={Introduction to the Mathematics of Medical Imaging},
+  author={Epstein, C.L.},
+  isbn={0130675482},
+  url={books.google.com/books?isbn=089871642X},
+  year={2003},
+  publisher={Pearson Education, Inc}
+}
+
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/cs294-73/!svn/ver/1469/projects/imageReconstruction/TestCode/ImageVersion/RectArray
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/cs294-73/!svn/ver/1469/projects/imageReconstruction/TestCode/ImageVersion/RectArray/GNUmakefile
+END
+PowerItoI.H
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/cs294-73/!svn/ver/1469/projects/imageReconstruction/TestCode/ImageVersion/RectArray/PowerItoI.H
+END
+RectMDArrayImplem.H
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/cs294-73/!svn/ver/1469/projects/imageReconstruction/TestCode/ImageVersion/RectArray/RectMDArrayImplem.H
+END
+Box.H
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/cs294-73/!svn/ver/1469/projects/imageReconstruction/TestCode/ImageVersion/RectArray/Box.H
+END
+PPoint.H
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/cs294-73/!svn/ver/1469/projects/imageReconstruction/TestCode/ImageVersion/RectArray/PPoint.H
+END
+BoxImplem.H
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/cs294-73/!svn/ver/1469/projects/imageReconstruction/TestCode/ImageVersion/RectArray/BoxImplem.H
+END
+PowerItoI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/cs294-73/!svn/ver/1469/projects/imageReconstruction/TestCode/ImageVersion/RectArray/PowerItoI.cpp
+END
+PointImplem.H
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/cs294-73/!svn/ver/1469/projects/imageReconstruction/TestCode/ImageVersion/RectArray/PointImplem.H
+END
+RectMDArray.H
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/cs294-73/!svn/ver/1469/projects/imageReconstruction/TestCode/ImageVersion/RectArray/RectMDArray.H
+END
