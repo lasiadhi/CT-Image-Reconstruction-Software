@@ -1,4 +1,7 @@
-Hello,
+## Discrete Image Reconstruction using Parallel Beam Geometry
+# A Software for computerized axial tomography (CAT or CT) based on parallel beam geometry implemented using C++. 
+
+# How to run: 
 
 The main.cpp is in the main folder, run "make all" will automatically generate the main.exe which the excutable file for our project. 
 
